@@ -4,7 +4,7 @@ import EtherealPulse from "./components/Hehe";
 const page = () => {
   return (
     <div>
-      <ThePulseLanding />
+      <EtherealPulse />
     </div>
   );
 };
